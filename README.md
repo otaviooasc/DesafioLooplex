@@ -9,7 +9,8 @@ Para efetuar as requisições use o postman.
 
 Após subir a aplicação via uma IDE da sua preferencia use o link: localhost:8080/api/documentos no postman para efetuar uma requisição GET.
 
-Para efetuar um POST/inserir um novo doc use: localhost:8080/api/inserir com o JASON exemplo abaixo:
+Para efetuar um POST/inserir um novo doc use: localhost:8080/api/inserir 
+Com o JSON exemplo abaixo:
 
 
 
